@@ -1,0 +1,3 @@
+  ip- StapleBerry.aternos.me:25612
+   port - 25612
+    name-StapleBerry
